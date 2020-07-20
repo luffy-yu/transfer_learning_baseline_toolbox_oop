@@ -86,7 +86,6 @@ domainnet_dataset = DomainNet(domainnet_dataset_path);
 show_result = ShowResult();
 
 %% method
-easytl_method = EasyTLMethod();
 svm_method = SVMMethod();
 tca_method = TCAMethod();
 gfk_method = GFKMethod();
@@ -96,6 +95,7 @@ coral_method = CORALMethod();
 sa_method = SAMethod();
 bda_method = BDAMethod();
 meda_method = MEDAMethod();
+easytl_method = EasyTLMethod();
 
 %% run
 datasets = {amazon_review, coil20, cross_dataset, image_clef, mnist_usps_dataset, office31_dataset, office_caltech_dataset, office_home_dataset, pie_dataset, visda_dataset, vlsc_dataset, domainnet_dataset};

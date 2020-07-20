@@ -4,8 +4,6 @@ classdef EasyTLMethod < TransferMethod
     
     methods
         function obj = EasyTLMethod()
-            %SVMMETHOD Construct an instance of this class
-            %   Detailed explanation goes here
             obj.methodName = 'EasyTL';
         end
         

@@ -7,8 +7,6 @@ classdef SVMMethod < TransferMethod
     
     methods
         function obj = SVMMethod()
-            %SVMMETHOD Construct an instance of this class
-            %   Detailed explanation goes here
             obj.methodName = 'SVM';
         end
         
