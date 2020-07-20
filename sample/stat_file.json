@@ -1,0 +1,20 @@
+{
+  "Amazon Review Dataset": {
+    "total": "72",
+    "win_count": "70",
+    "win_rate": "97.22",
+    "min_increase": "-1.65",
+    "max_increase": "6.11",
+    "avg_increase": "1.90",
+    "desc": "在本数据集的72个实验中，共有70个实验的结果得到提升，占比97.22%。最小提升为-1.65%，最大提升为6.11%，平均提升为1.90%。"
+  },
+  "Summary": {
+    "total": "72",
+    "win_count": "70",
+    "win_rate": "97.22",
+    "min_increase": "-1.65",
+    "max_increase": "6.11",
+    "avg_increase": "1.90",
+    "desc": "在本章节的72个实验中，共有70个实验的结果得到提升，占比97.22%。最小提升为-1.65%，最大提升为6.11%，平均提升为1.90%。"
+  }
+}
