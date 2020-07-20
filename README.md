@@ -251,7 +251,7 @@ Old,kitchen-dvd,0.763381690845423
 Old,kitchen-elec,0.825325325325325
 ```
 
-[compare_of_method_EasyTL_dataset_Amazon_Review.png](/experiment/matlab/compare_of_method_EasyTL_dataset_Amazon_Review.png)
+![compare_of_method_EasyTL_dataset_Amazon_Review.png](/experiment/matlab/compare_of_method_EasyTL_dataset_Amazon_Review.png)
 
 
 2. when `run_new = dataset.run_new();`
@@ -286,7 +286,7 @@ New,kitchen-dvd,0.769884942471236
 New,kitchen-elec,0.833333333333333
 ```
 
-[compare_of_method_EasyTL_dataset_Amazon_Review_2.png](/experiment/matlab/compare_of_method_EasyTL_dataset_Amazon_Review_2.png)
+![compare_of_method_EasyTL_dataset_Amazon_Review_2.png](/experiment/matlab/compare_of_method_EasyTL_dataset_Amazon_Review_2.png)
 
 ### Customize Dataset
 
@@ -388,7 +388,7 @@ vis = Visualize()
 vis.show_csv('compare_of_method_BDA_dataset_Amazon_Review.csv')
 ```
 
-[screenshot.jpg](/sample/screenshot.jpg)
+![screenshot.jpg](/sample/screenshot.jpg)
 
 - Visualize and analyze one dataset
 
@@ -416,7 +416,7 @@ Summary metrics of all csv files.
 
 [Amazon_Review_all_in_one.xlsx](/sample/Amazon_Review_all_in_one.xlsx)
 
-[Screenshot](/sample/screenshot_xlsx.jpg)
+![Screenshot](/sample/screenshot_xlsx.jpg)
 
 **Note: `*` indicates the larger. **
 
