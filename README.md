@@ -251,8 +251,6 @@ Old,kitchen-dvd,0.763381690845423
 Old,kitchen-elec,0.825325325325325
 ```
 
-<a href='/experiment/matlab/compare_of_method_EasyTL_dataset_Amazon_Review.png'>compare_of_method_EasyTL_dataset_Amazon_Review.png</a>
-
 [compare_of_method_EasyTL_dataset_Amazon_Review.png](/experiment/matlab/compare_of_method_EasyTL_dataset_Amazon_Review.png)
 
 
@@ -287,8 +285,6 @@ New,kitchen-books,0.7785
 New,kitchen-dvd,0.769884942471236
 New,kitchen-elec,0.833333333333333
 ```
-
-<a href='/experiment/matlab/compare_of_method_EasyTL_dataset_Amazon_Review_2.png'>compare_of_method_EasyTL_dataset_Amazon_Review_2.png</a>
 
 [compare_of_method_EasyTL_dataset_Amazon_Review_2.png](/experiment/matlab/compare_of_method_EasyTL_dataset_Amazon_Review_2.png)
 
