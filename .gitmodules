@@ -1,0 +1,6 @@
+[submodule "code/gramm"]
+	path = code/gramm
+	url = https://github.com/piermorel/gramm
+[submodule "code/transferlearning"]
+	path = code/transferlearning
+	url = https://github.com/luffy-yu/transferlearning.git
