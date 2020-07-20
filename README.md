@@ -12,6 +12,8 @@ Transfer Learning Baseline Toolbox Based on Object Oriented Programming
 
 - [Acknowledgements](#acknowledgements)
 
+- [References](#references)
+
 ## About ##
 
 These are some parts of experiment in my graduation thesis. In my opinion, it will be helpful if I open source these fundamental modules, especially for those who research on transfer learning.
@@ -26,51 +28,51 @@ These are some parts of experiment in my graduation thesis. In my opinion, it wi
 
 `SVM`
 
-`TCA`
+`TCA` [<sup>1</sup>]
 
-`GFK`
+`GFK` [<sup>2</sup>]
 
-`JDA`
+`JDA` [<sup>3</sup>]
 
-`SA`
+`SA` [<sup>4</sup>]
 
-`TJM`
+`TJM` [<sup>5</sup>]
 
-`CORAL`
+`CORAL` [<sup>6</sup>]
 
-`BDA`
+`BDA` [<sup>7</sup>]
 
-`MEDA`
+`MEDA` [<sup>8</sup>]
 
-`EasyTL`
+`EasyTL` [<sup>9</sup>]
 
 **Note: Official code locates in [EasyTL](/code/transferlearning/code/traditional/EasyTL), while code in [code/EasyTL](/code/EasyTL) is introduced into other dataset by myself.**
 
 - Support **12** transfer learning datasets
 
-`Amazon Review`
+`Amazon Review` [<sup>10</sup>]
 
-`COIL20`
+`COIL20` [<sup>11</sup>]
 
-`Cross Dataset`
+`Cross Dataset` [<sup>12</sup>]
 
-`Image CLEF`
+`Image CLEF` [<sup>13</sup>]
 
-`Mnist USPS`
+`Mnist USPS` [<sup>14</sup>]
 
-`Office31`
+`Office31` [<sup>15</sup>]
 
-`Office Caltech`
+`Office Caltech` [<sup>16</sup>]
 
-`Office Home`
+`Office Home` [<sup>17</sup>]
 
-`PIE`
+`PIE` [<sup>18</sup>]
 
-`VisDA`
+`VisDA` [<sup>19</sup>]
 
-`VLSC`
+`VLSC` [<sup>20</sup>]
 
-`DomainNet`
+`DomainNet` [<sup>21</sup>]
 
 - Dataset download available
 
@@ -497,3 +499,46 @@ This was inspired and/or used code from:
 
 - [gramm](https://github.com/piermorel/gramm)
 
+## References ##
+
+- [1] Pan S J, Tsang I W, Kwok J T, et al. Domain adaptation via transfer component analysis[J]. IEEE Transactions on Neural Networks, 2011, 22(2): 199-210.
+
+- [2] Gong B, Shi Y, Sha F, et al. Geodesic flow kernel for unsupervised domain adaptation[C]. 2012 IEEE Conference on Computer Vision and Pattern Recognition, 2012: 2066-2073.
+
+- [3] Long M, Wang J, Ding G, et al. Transfer feature learning with joint distribution adaptation[C]. Proceedings of the IEEE international conference on computer vision, 2013: 2200-2207.
+
+- [4] Fernando B, Habrard A, Sebban M, et al. Unsupervised visual domain adaptation using subspace alignment[C]. Proceedings of the IEEE international conference on computer vision, 2013: 2960-2967.
+
+- [5] Long M, Wang J, Ding G, et al. Transfer joint matching for unsupervised domain adaptation[C]. Proceedings of the IEEE conference on computer vision and pattern recognition, 2014: 1410-1417.
+
+- [6] Sun B, Feng J, Saenko K. Return of frustratingly easy domain adaptation[C]. Thirtieth AAAI Conference on Artificial Intelligence, 2016.
+
+- [7] Wang J, Chen Y, Hao S, et al. Balanced distribution adaptation for transfer learning[C]. 2017 IEEE International Conference on Data Mining (ICDM), 2017: 1129-1134.
+
+- [8] Wang J, Feng W, Chen Y, et al. Visual domain adaptation with manifold embedded distribution alignment[C]. Proceedings of the 26th ACM international conference on Multimedia, 2018: 402-410.
+
+- [9] Wang J, Chen Y, Yu H, et al. Easy transfer learning by exploiting intra-domain structures[C]. 2019 IEEE International Conference on Multimedia and Expo (ICME), 2019: 1210-1215.
+
+- [10] Chen M, Xu Z, Weinberger K, et al. Marginalized denoising autoencoders for domain adaptation[J]. arXiv preprint arXiv:1206.4683, 2012.
+
+- [11] Long M, Wang J, Ding G, et al. Transfer feature learning with joint distribution adaptation[C]. Proceedings of the IEEE international conference on computer vision, 2013: 2200-2207.
+
+- [12] A Testbed for Cross-Dataset Analysis[EB/OL]. https://sites.google.com/site/crossdataset/home/files
+
+- [13] ImageCLEF[EB/OL]. https://www.imageclef.org/2014/adaptation
+
+- [14] Long M, Wang J, Ding G, et al. Transfer feature learning with joint distribution adaptation[C]. Proceedings of the IEEE international conference on computer vision, 2013: 2200-2207.
+
+- [15] Saenko K, Kulis B, Fritz M, et al. Adapting visual category models to new domains[C]. European conference on computer vision, 2010: 213-226.
+
+- [16] Gong B, Shi Y, Sha F, et al. Geodesic flow kernel for unsupervised domain adaptation[C]. 2012 IEEE Conference on Computer Vision and Pattern Recognition, 2012: 2066-2073.
+
+- [17] Venkateswara H, Eusebio J, Chakraborty S, et al. Deep hashing network for unsupervised domain adaptation[C]. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2017: 5018-5027.
+
+- [18] Sim T, Baker S, Bsat M. The CMU pose, illumination, and expression (PIE) database of human faces[M]. Citeseer, 2001.
+
+- [19] Peng X, Usman B, Kaushik N, et al. Visda: The visual domain adaptation challenge[J]. arXiv preprint arXiv:1710.06924, 2017.
+
+- [20] Fang C, Xu Y, Rockmore D N. Unbiased metric learning: On the utilization of multiple datasets and web images for softening bias[C]. Proceedings of the IEEE International Conference on Computer Vision, 2013: 1657-1664.
+
+- [21] Peng X, Bai Q, Xia X, et al. Moment matching for multi-source domain adaptation[C]. Proceedings of the IEEE International Conference on Computer Vision, 2019: 1406-1415.
