@@ -26,53 +26,53 @@ These are some parts of experiment in my graduation thesis. In my opinion, it wi
 
 - Support **10** transfer learning methods
 
-`SVM`
+    - `SVM`
 
-`TCA` [<sup>1</sup>]
+    - `TCA` [1]
 
-`GFK` [<sup>2</sup>]
+    - `GFK` [2]
 
-`JDA` [<sup>3</sup>]
+    - `JDA` [3]
 
-`SA` [<sup>4</sup>]
+    - `SA` [4]
 
-`TJM` [<sup>5</sup>]
+    - `TJM` [5]
 
-`CORAL` [<sup>6</sup>]
+    - `CORAL` [6]
 
-`BDA` [<sup>7</sup>]
+    - `BDA` [7]
 
-`MEDA` [<sup>8</sup>]
+    - `MEDA` [8]
 
-`EasyTL` [<sup>9</sup>]
+    - `EasyTL` [9]
 
-**Note: Official code locates in [EasyTL](/code/transferlearning/code/traditional/EasyTL), while code in [code/EasyTL](/code/EasyTL) is introduced into other dataset by myself.**
+**Note: Official code locates in [EasyTL](/code/transferlearning/code/traditional/EasyTL), while code in [code/EasyTL](/code/EasyTL) is introduced into other datasets by myself.**
 
 - Support **12** transfer learning datasets
 
-`Amazon Review` [<sup>10</sup>]
+    - `Amazon Review` [10]
 
-`COIL20` [<sup>11</sup>]
+    - `COIL20` [11]
 
-`Cross Dataset` [<sup>12</sup>]
+    - `Cross Dataset` [12]
 
-`Image CLEF` [<sup>13</sup>]
+    - `Image CLEF` [13]
 
-`Mnist USPS` [<sup>14</sup>]
+    - `Mnist USPS` [14]
 
-`Office31` [<sup>15</sup>]
+    - `Office31` [15]
 
-`Office Caltech` [<sup>16</sup>]
+    - `Office Caltech` [16]
 
-`Office Home` [<sup>17</sup>]
+    - `Office Home` [17]
 
-`PIE` [<sup>18</sup>]
+    - `PIE` [18]
 
-`VisDA` [<sup>19</sup>]
+    - `VisDA` [19]
 
-`VLSC` [<sup>20</sup>]
+    - `VLSC` [20]
 
-`DomainNet` [<sup>21</sup>]
+    - `DomainNet` [21]
 
 - Dataset download available
 
@@ -336,7 +336,7 @@ obj.methodName = '';
 
 - clear
 
-- add dependencies path and dataset source file path
+- add dependencies path
 
 - initialize `ShowResult` instance, see class definition in [ShowResult.m](/experiment/matlab/ShowResult.m)
 
