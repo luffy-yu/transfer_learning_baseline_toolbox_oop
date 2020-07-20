@@ -94,7 +94,7 @@ These are some parts of experiment in my graduation thesis. In my opinion, it wi
 
 ## Usage ##
 
-### Run baseline
+### Run Baseline
 
 - Setup Matlab environment
 
@@ -402,13 +402,13 @@ AmazonReview()()
 
 Plot figures in 9 subplots, each subplot contains one method.
 
-[Amazon_Review_3x3.svg](/sample/Amazon_Review_3x3.svg)
+![Amazon_Review_3x3.svg](/sample/Amazon_Review_3x3.svg)
 
 > (2) Amazon_Review_all_in_one.svg
 
 Plot figures in ONE plot. 
 
-[Amazon_Review_all_in_one.svg](/sample/Amazon_Review_all_in_one.svg)
+![Amazon_Review_all_in_one.svg](/sample/Amazon_Review_all_in_one.svg)
 
 > (3) Amazon_Review_all_in_one.xlsx
 
@@ -416,7 +416,7 @@ Summary metrics of all csv files.
 
 [Amazon_Review_all_in_one.xlsx](/sample/Amazon_Review_all_in_one.xlsx)
 
-![Screenshot](/sample/screenshot_xlsx.jpg)
+![screenshot_xlsx.jpg](/sample/screenshot_xlsx.jpg)
 
 **Note: `*` indicates the larger. **
 
@@ -485,7 +485,7 @@ template = '在本数据集的{total}个实验中，共有{win_count}个实验�
 Visualize().merge([MnistUSPS, PIE, OfficeCaltech, ImageCLEF], outname='mnist-usps_pie_officecaltech_imageclef.svg')
 ```
 
-[mnist-usps_pie_officecaltech_imageclef.svg](/sample/mnist-usps_pie_officecaltech_imageclef.svg)
+![mnist-usps_pie_officecaltech_imageclef.svg](/sample/mnist-usps_pie_officecaltech_imageclef.svg)
 
 ## Acknowledgements ##
 
